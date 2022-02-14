@@ -71,7 +71,7 @@ class NodeMoveAction extends Action
 
         /* attach our bahaviour to be able to call the moveNode() function of the NestedSetsBehavior */
         $model->attachBehavior('nestable', [
-            'class' => \klisl\nestable\NestableBehavior::className(),
+            'class' => NestableBehavior::className(),
             'leftAttribute' => $this->leftAttribute,
             'rightAttribute' => $this->rightAttribute,
             'treeAttribute' => $this->treeAttribute,
