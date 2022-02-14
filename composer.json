@@ -1,5 +1,5 @@
 {
-  "name": "klisl/yii2-nested-sets-drag-and-drop",
+  "name": "mitasych/yii2-nested-sets-drag-and-drop",
   "description": "Package",
   "type": "yii2-extension",
   "keywords": [
@@ -13,7 +13,9 @@
 	  "name1": "Arno Slatius",
 	  "email1": "a.slatius@gmail.com",
       "name2": "Sergey Klimenchuk",
-      "email2": "ksl80@ukr.net"
+      "email2": "ksl80@ukr.net",
+      "name2": "Aleksandr Mitasov",
+      "email2": "ae.mitasov@gmail.com"
     }
   ],
   "minimum-stability": "stable",
@@ -24,7 +26,7 @@
   },
   "autoload": {
     "psr-4": {
-      "klisl\\nestable\\": "src"
+      "mitasych\\nestable\\": "src"
     }
   }
 }

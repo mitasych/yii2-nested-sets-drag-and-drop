@@ -6,7 +6,7 @@
  * @version 1.0
  */
 
-namespace klisl\nestable;
+namespace mitasych\nestable;
 
 use Yii;
 use yii\base\Action;

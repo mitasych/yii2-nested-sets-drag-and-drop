@@ -5,7 +5,7 @@
  * @version 1.0
  */
 
-namespace klisl\nestable;
+namespace mitasych\nestable;
 
 use \creocoder\nestedsets\NestedSetsBehavior;
 

@@ -6,7 +6,7 @@
  * @version 1.0
  */
 
-namespace klisl\nestable;
+namespace mitasych\nestable;
 
 /**
  * Nestable bundle for \klisl\nestable\Sortable

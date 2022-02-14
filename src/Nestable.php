@@ -6,7 +6,7 @@
  * Modified for yii2-Nested-Sets-Drag-and-drop - Copyright (c) 2018 Sergey Klimenchuk - http://klisl.com
  */
 
-namespace klisl\nestable;
+namespace mitasych\nestable;
 
 use yii\db\ActiveQuery;
 use yii\helpers\Url;
