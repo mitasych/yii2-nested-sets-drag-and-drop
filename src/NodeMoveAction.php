@@ -95,6 +95,8 @@ class NodeMoveAction extends Action
                 $model->appendTo($par);
         }
 
+        $model->save();
+
         /* report new position */
         return ['updated' => [
             'id' => $model->id,
