@@ -7,7 +7,7 @@
 
 namespace mitasych\nestable;
 
-use \creocoder\nestedsets\NestedSetsBehavior;
+use paulzi\nestedsets\NestedSetsBehavior;
 
 /**
  * Create nestable lists using drag & drop for Yii 2.0.

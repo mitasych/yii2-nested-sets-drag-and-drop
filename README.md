@@ -6,7 +6,7 @@ fork klisl/yii2-nested-sets-drag-and-drop
 Расширение для работы с древовидной структурой элементов хранимых в базе данных по принципу "Nested Sets".
 
 В работе используются расширения: 
-*	Nested Sets Behavior for Yii 2 (https://github.com/creocoder/yii2-nested-sets)
+*	Nested Sets Behavior for Yii 2 (https://github.com/paulzi/yii2-nested-sets)
 *	yii2-nestable (https://github.com/ASlatius/yii2-nestable)
 *   jquery.nestable plugin: (http://dbushell.github.io/Nestable)
 

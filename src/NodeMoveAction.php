@@ -11,7 +11,7 @@ namespace mitasych\nestable;
 use Yii;
 use yii\base\Action;
 use yii\db\ActiveQuery;
-use creocoder\nestedsets\NestedSetsBehavior;
+use paulzi\nestedsets\NestedSetsBehavior;
 
 /**
  * Create nestable lists using drag & drop for Yii 2.0.
