@@ -217,7 +217,7 @@ class Nestable extends \kartik\base\Widget
             $items[] = [
                 'id'       => $model->getPrimaryKey(),
                 'content'  => (is_callable($name) ? call_user_func($name, $model) : $model->{$name}),
-                'children' => $this->prepareItems($model->children(1)),
+                'children' => $this->prepareItems($model->getChildren()),
             ];
         }
         return $items;
